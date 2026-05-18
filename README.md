@@ -119,6 +119,7 @@ BMI = weight / (height × height)
 * Add more **mini games**
 * Improve **UI design**
 * Store scores using **local storage**
+* If you want to suggest some games or tools, Feel free to contact
 
 ---
 
