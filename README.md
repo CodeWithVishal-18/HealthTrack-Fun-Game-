@@ -30,7 +30,6 @@ The app also shows a **daily motivational quote** to keep users positive and mot
   * Underweight
   * Normal
   * Overweight
-  * Obese
 * Displays a progress bar and health message.
 
 ### 🎮 Rock Paper Scissors Game
