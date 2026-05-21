@@ -108,7 +108,7 @@ BMI = weight / (height × height)
 * User selects **rock, paper, or scissors**
 * Computer randomly chooses
 * Score updates after each round
-* If computer wins it will give a sound fahhhhhhh
+* If computer wins it will give a sound fahhhhh
 * First to **5 points wins the match**
 
 ---
