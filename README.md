@@ -11,7 +11,7 @@
 **HealthTrack & Fun** is a simple web application that combines **health tools and fun games** in one place.
 Users can calculate their **BMI (Body Mass Index)** and also play a **Rock Paper Scissors game** against the computer.
 
-The app also shows a **daily motivational quote** to keep users positive and motivated.
+The app also shows a **daily motivational quote** to keep users positive and motivated, these quotes are fetched by api and also on every loading changes the quotes.
 
 ---
 
