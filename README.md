@@ -26,7 +26,6 @@ The app also shows a **daily motivational quote** to keep users positive and mot
 * Enter height and weight
 * Calculates **BMI (Body Mass Index)**
 * Shows BMI category:
-
   * Underweight
   * Normal
   * Overweight
@@ -101,7 +100,7 @@ Open **index.html** in your browser.
 BMI = weight / (height × height)
 ```
 
-3. Shows BMI value and health category.
+3. Shows BMI value and health category, and also a message.
 
 ### Rock Paper Scissors
 
